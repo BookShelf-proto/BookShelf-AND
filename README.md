@@ -1,4 +1,4 @@
-# BookShelf-AND
+![image](https://github.com/BookShelf-proto/BookShelf-AND/assets/55864257/f5e22ff7-d767-4ef6-b5d1-c1dd86004a44)# BookShelf-AND
 책 기록 어쩌구 윤주야 화이팅이야 :frog:
 |CHECK|||
 |---|---|---|
@@ -21,6 +21,7 @@
 |3|START_DATE|가입일자|String (yyyymmdd)|
 |4|CON_DAY|연속활동일자|Int|
 |5|LAST_DATE|최근활동일자|String (yyyymmdd)|
+|6|MAX_DAY|최고연속활동일자|Int|
 
 칭호 테이블
 |idx|column|description|type|
@@ -54,4 +55,10 @@
   - 매일 20시 체크
   - 활동 시점 날짜 != 마지막 활동 날짜 : 노티 발송
   - 노티 문구 "오늘의 기록 내용을 공유해주세요!"
+
+- 칭호
+  - max: 최고 연속 기록
+  - [{max: 100, award: :thumbsup:}, {max: 200, award: :v:}, {max: 365, award: :cherries:}, {max: 730, award: :cake:}, {max: 1095, award: :birthday:}, {max: 1460, award: :star:}]
+
+
 
