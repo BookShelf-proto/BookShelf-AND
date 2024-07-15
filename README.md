@@ -1,4 +1,4 @@
-![image](https://github.com/BookShelf-proto/BookShelf-AND/assets/55864257/f5e22ff7-d767-4ef6-b5d1-c1dd86004a44)# BookShelf-AND
+# BookShelf-AND
 책 기록 어쩌구 윤주야 화이팅이야 :frog:
 |CHECK|||
 |---|---|---|
